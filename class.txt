@@ -1,13 +1,1 @@
-Crimson
-Orange
-Green
-Cyan
-Yellow
-Ivory
-Khaki
-Coral
-Silver
-Fuchsia
-Gray
-Brown
-Red
+Please don't push your final class.txt to the course original repo so others can complete the lab, just push it to your cloned repo only. No pull request is required.
