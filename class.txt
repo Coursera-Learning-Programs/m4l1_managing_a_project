@@ -1,13 +1,11 @@
+12345678910111213
 Crimson
 Orange
-Green
+Blue
 Cyan
 Yellow
-Ivory
+Charcoal
 Khaki
 Coral
 Silver
 Fuchsia
-Gray
-Brown
-Red
