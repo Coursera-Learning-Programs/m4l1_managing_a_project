@@ -1,4 +1,4 @@
-Crimson
+crispy
 banana
 Green
 Cyan
@@ -10,4 +10,5 @@ gold
 Fuchsia
 Gray
 fish
-Red
+blue
+wengel
