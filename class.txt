@@ -3,7 +3,8 @@ Orange
 Green
 Cyan
 Yellow
-Ivory
+Dark Brown
+Pale
 Khaki
 Coral
 Silver
