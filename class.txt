@@ -1,5 +1,6 @@
- Crimson 
-Orange 
+ 
+Crimson
+Orange
 Blue
 Cyan
 Yellow
@@ -10,7 +11,4 @@ Silver
 Fuchsia
 Purple
 Brown
-Red
-
-walid
-
+Red 
